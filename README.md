@@ -114,5 +114,9 @@ Future Improvements
 Enhanced Scalability: Introduce batching for processing large documents.
 Multi-document Support: Allow users to upload and query across multiple documents.
 Performance Optimization: Optimize embedding generation for large documents.
+
+
 Contributors
+
+
 Hursh Karnik - BTech CSE (AI/ML)
