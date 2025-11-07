@@ -24,7 +24,7 @@ if index_name not in pc.list_indexes().names():
 
 index = pc.Index(index_name, host=host)
 
-cohere_client = cohere.Client("Ga9HyHd21Nd5XoiXxdSiPzsmtGZJhULrfuS8gfct")
+cohere_client = cohere.Client("[REDACTED_BY_KEYGUARDIAN]")
 
 embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
 
